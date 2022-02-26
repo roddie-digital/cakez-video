@@ -1,14 +1,20 @@
-/bwyawnnn       https://clips.twitch.tv/BusyOilyCrowPipeHype-AtH3oyiwwncCg7V_
-/aseprite       https://www.youtube.com/watch?v=Z4Enx-Nb43E
-/vulkan         https://www.youtube.com/playlist?list=PLFAIgTeqcARkeHm-RimFyKET6IZPxlBSt
+#twitch
 /bigger         https://clips.twitch.tv/FancyCheerfulQueleaNomNom-P3ePa0IaIboBqIS2
-/principle      https://clips.twitch.tv/PreciousColorfulShieldSSSsss-Ovyk0mZoxX8U_rlD
-/philosophy     https://clips.twitch.tv/SpeedyDirtyFinchRalpherZ-RxqHj7qIzyn2G8bY
-/idea           https://www.youtube.com/watch?v=mC8oUPnN6Jg
-/gameplay       https://clips.twitch.tv/IcyMistyCodM4xHeh-CwaedeFFWsFZfbpO
-/sprite-editor  https://clips.twitch.tv/SpicyCloudyKimchiYee-pZyu0RrcB_leELow
-/youtube        https://www.youtube.com/channel/UCL7bBOIdfxxM9WyxTnTk7Qg
+/bwyawnnn       https://clips.twitch.tv/BusyOilyCrowPipeHype-AtH3oyiwwncCg7V_
 /errors         https://clips.twitch.tv/TrustworthyToughBoarHassaanChop-vgO0AdZp5ANSKNop
+/gameplay       https://clips.twitch.tv/IcyMistyCodM4xHeh-CwaedeFFWsFZfbpO
+/philosophy     https://clips.twitch.tv/SpeedyDirtyFinchRalpherZ-RxqHj7qIzyn2G8bY
+/principle      https://clips.twitch.tv/PreciousColorfulShieldSSSsss-Ovyk0mZoxX8U_rlD
+/sprite-editor  https://clips.twitch.tv/SpicyCloudyKimchiYee-pZyu0RrcB_leELow
+
+#youtube
+/youtube        https://www.youtube.com/channel/UCL7bBOIdfxxM9WyxTnTk7Qg
+/aseprite       https://www.youtube.com/watch?v=Z4Enx-Nb43E
+/idea           https://www.youtube.com/watch?v=mC8oUPnN6Jg
+/vulkan         https://www.youtube.com/playlist?list=PLFAIgTeqcARkeHm-RimFyKET6IZPxlBSt
+
+#other
 /edit           https://github.com/roddie-digital/cakez-video/edit/main/_redirects
 
+#catch-all (anything else redirects here)
 /*              https://twitch.tv/cakez77
