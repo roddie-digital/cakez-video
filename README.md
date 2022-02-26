@@ -1,4 +1,4 @@
-# Cakez video URL shortener
+# ![img](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6212f4f37c3148a0b74837998b969e0f/default/light/1.0) Cakez video URL shortener 
 
 Easy way to reference Twitch clips (and YouTube videos) since native clip management and discoverability is so poor.
 
@@ -9,3 +9,4 @@ The GitHub repo is linked to a [Netlify](https://netlify.com) site leveraging th
 > In a `_redirects` file, each redirect rule must be listed on a separate line, with the original path followed by the new path or URL. Any line beginning with `#` will be ignored as a comment.
 >
 > You can customize and alter the redirect behavior by adding options to the end of each line such as HTTP status code, country conditions, or language conditions. Visit the [redirect options](https://docs.netlify.com/routing/redirects/redirect-options/) doc for more details on these and other configuration options including query parameters, domain-level redirects, and more. You can also use redirects for [rewrites and proxies](https://docs.netlify.com/routing/redirects/rewrites-proxies/).
+
