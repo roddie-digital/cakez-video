@@ -51,6 +51,7 @@
 #other
 /edit           https://github.com/roddie-digital/cakez-video/edit/main/_redirects
 /repo           https://github.com/roddie-digital/cakez-video
+/trello         https://trello.com/b/lk1NYhqg/cakeztd
 
 #catch-all (anything else redirects here)
 /*              https://twitch.tv/cakez77
