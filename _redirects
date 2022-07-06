@@ -52,6 +52,7 @@
 #other
 /edit           https://github.com/roddie-digital/cakez-video/edit/main/_redirects
 /repo           https://github.com/roddie-digital/cakez-video
+/tiktok         https://tiktok.com/@cakez_77
 /trello         https://trello.com/b/lk1NYhqg/cakeztd
 
 #catch-all (anything else redirects here)
